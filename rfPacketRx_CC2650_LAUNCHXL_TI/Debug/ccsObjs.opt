@@ -1,0 +1,1 @@
+"./CC2650_LAUNCHXL.obj" "./RFQueue.obj" "./ccfg.obj" "./rfPacketRx.obj" "./smartrf_settings/smartrf_settings.obj" "../CC2650_LAUNCHXL.cmd" -l"configPkg/linker.cmd" -l"/products/cc26xxware_2_24_03_17272/driverlib/bin/ccs/driverlib.lib" -llibc.a 
